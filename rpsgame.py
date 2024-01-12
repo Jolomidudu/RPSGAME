@@ -1,5 +1,5 @@
-#RPS GUI 
-#By Praveen Kathirvasan 9C
+#RPSGAME GUI 
+#By Jolomi DUDU
 from tkinter import *
 import random
 import tkinter
